@@ -53,7 +53,7 @@ I’ve built 18+ mini projects using HTML, CSS, and JavaScript. Some of them:
 
 - 🌟 Completed 18+ front-end mini projects  
 - 💡 Built and hosted personal portfolio website  
-- 🧠 Actively learning through Apna College's Sigma 7.0   
+ 
 
 
 ---
